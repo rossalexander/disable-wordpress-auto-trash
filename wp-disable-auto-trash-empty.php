@@ -5,7 +5,7 @@ Plugin Name: Ralex Disable WordPress Auto Trash Empty
 Plugin URI: https://github.com/disable-wordpress-auto-trash
 Description: Prevent WordPress from automatically empty trash every 30 days.
 Version: 1.0
-Author: rralex
+Author: ralex
 Author URI: https://github.com/rossalexander
 License: GPL2
 */
